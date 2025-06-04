@@ -1,9 +1,17 @@
 import React from 'react'
 
-const Page = () => {
+const HomePage = () => {
   return (
-    <div>Page</div>
+    <div>   
+
+      <div className='text-5xl font-bold text-cyan-600'
+      >Sleep Tracker
+      
+      </div>
+    
+      <div>Home Page</div>
+    </div>
   )
 }
 
-export default Page;
+export default HomePage;
