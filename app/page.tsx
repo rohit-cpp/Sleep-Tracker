@@ -22,7 +22,7 @@ const HomePage = async () => {
           {/* User Image */}
           <img
             src={user.imageUrl}
-            alt={`${user.firstName}&#39;s profile`}
+            alt={`${user.firstName} profile`}
             className='w-24 h-24 rounded-full border border-gray-300 shadow-md'
           />
 
