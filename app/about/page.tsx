@@ -65,7 +65,7 @@ const AboutPage = () => {
         <p className="text-gray-600 max-w-3xl mx-auto text-center leading-relaxed">
           SleepTracker was born from a desire to solve modern sleep issues through technology.
           Our team of sleep scientists and developers joined forces to build a tool that not only tracks sleep,
-          but helps people build healthy routines. Since launching, we've impacted thousands of lives
+          but helps people build healthy routines. Since launching, we have impacted thousands of lives
           and continue to evolve with feedback and research.
         </p>
       </section>
