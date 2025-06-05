@@ -57,6 +57,7 @@ This app empowers users to understand their sleeping habits and mood impact with
 
 ```bash
 git clone https://github.com/your-username/sleep-tracker.git
+cd sleep-tracker
 ```
 
 2. **Install dependencies**
