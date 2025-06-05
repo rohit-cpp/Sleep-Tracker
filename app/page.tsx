@@ -3,6 +3,7 @@ import AverageSleep from '@/components/AverageSleep';
 import BestWorstSleep from '@/components/BestWorstSleep';
 import Guest from '@/components/Guest';
 import RecordChart from '@/components/RecordCart';
+import RecordHistory from '@/components/RecordHistory';
 import { currentUser } from '@clerk/nextjs/server';
 import React from 'react'
 
@@ -56,7 +57,7 @@ const HomePage = async () => {
 
       {/* Right Column */}
       <div className='space-y-6'>
-        Placeholder for RecordStats, RecentRecord, and Insights
+        {/* Placeholder for RecordStats, RecentRecord, and Insights */}
          <RecordChart />
          <AverageSleep />
         <BestWorstSleep /> 
@@ -64,7 +65,7 @@ const HomePage = async () => {
     </div>
     {/* Placeholder for SleepHistory */}
     <div className='max-w-7xl mx-auto'>
-      {/* <RecordHistory /> */}
+      <RecordHistory />
     </div>
   </main>
   )
