@@ -51,6 +51,9 @@ This app empowers users to understand their sleeping habits and mood impact with
 
 ---
 
+<img width="1024" height="1536" alt="ChatGPT Image Aug 13, 2025, 03_22_11 PM" src="https://github.com/user-attachments/assets/bb3e350a-9936-4336-ad0c-a23fc9bd4766" />
+
+---
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**
