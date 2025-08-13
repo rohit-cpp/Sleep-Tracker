@@ -134,6 +134,3 @@ Made with ❤️ by [Rohit Gawande](https://github.com/rohit-cpp)
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Let me know if you want this converted into a downloadable file or want to add deployment links (e.g., Vercel) or live demo badges.
